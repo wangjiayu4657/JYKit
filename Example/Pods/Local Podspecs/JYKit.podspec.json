@@ -1,0 +1,22 @@
+{
+  "name": "JYKit",
+  "version": "0.1.0",
+  "summary": "A short description of JYKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jiayuwang/JYKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiayuwang": "jiayuwang@upchina.com"
+  },
+  "source": {
+    "git": "https://github.com/jiayuwang/JYKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JYKit/Classes/**/*"
+}

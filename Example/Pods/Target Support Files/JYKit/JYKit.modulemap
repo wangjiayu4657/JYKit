@@ -1,0 +1,6 @@
+framework module JYKit {
+  umbrella header "JYKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
